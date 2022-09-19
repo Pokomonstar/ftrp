@@ -1,1 +1,9 @@
-* {}
+.pokoheader {
+    width: 370px;
+    height: 30px;
+    line-height: 30px;
+    background-color: #4e4f87;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 700;
+}
